@@ -1,0 +1,11 @@
+java:
+1. Create a class PesonalDetails having attributes (id, name, age, location, address etc), use appropriate access modifiers, print them in the main class.
+2. Create a class having two methods addition and multiplication, pass two input parameters to the methods and return added/multiplied values.
+3. Create a class having a method checkOddNumbers, the method will take an array of integer as input and prints odd numbers.
+
+SQL:
+
+Create a table pesonal_details having attributes (id, name, age, location, address etc)
+1. insert at least 3 rows,
+2. update a row,
+3. delete a row
