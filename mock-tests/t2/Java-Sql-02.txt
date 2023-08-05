@@ -1,0 +1,13 @@
+Java:
+Q1. Write a Java program to create a class known as "BankAccount" with methods called deposit() and withdraw(). Create a subclass called SavingsAccount that overrides the withdraw() method to prevent withdrawals if the account balance falls below one hundred.
+
+Q2. Write a Java program to create an interface Shape with the getArea() method. Create three classes Rectangle, Circle, and Triangle that implement the Shape interface. Implement the getArea() method for each of the three classes.
+Q3. Write a Java program to create a class Vehicle with a method called speedUp(). Create two subclasses Car and Bicycle. Override the speedUp() method in each subclass to increase the vehicle's speed differently.
+
+SQL:
+Employee(EmpID,EmpFname,EmpLname,Department,Project,Address,DOB,Gender)
+EmployeePosition(EmpID,EmpPosition,DateOfJoining,Salary)
+
+Q1. Write a query to fetch the EmpFname from the EmployeeInfo table in upper case and use the ALIAS name as EmpName.
+Q2. Write a query to fetch the number of employees working in the department ‘HR’.
+Q3. Write a query to fetch all employees who also hold the managerial position.
