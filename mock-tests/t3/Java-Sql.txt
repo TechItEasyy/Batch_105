@@ -1,0 +1,7 @@
+JAVA:
+1. Create a list of integers, iterrate over the list and find the maximum number in it.
+2. Create class Employee{name,age,salary,department}, store 10 employees in a list, print the details of each employee
+3. Find the employee with maximum salary
+SQL: Table Employee{name,age,salary,department}
+1. Find the employee with maximum salary
+2. Calculate the average age of employees in each department:
