@@ -11,7 +11,7 @@ SQL:
 3. Retrieve the names of all employees along with the names of their managers. Use a self join on the employees table to achieve this.
 
 department{deptId,deptName}
-employee{empId, emp,name,managerName, deptId, managerId}
+employee{empId, empName, managerName, deptId, managerId}
 
 order{orderId, orderDescription, totalPrice}
 customer{custId,custName,orderId}
