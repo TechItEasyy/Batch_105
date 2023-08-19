@@ -1,0 +1,17 @@
+Java:
+
+1. Creat a hashmap to store data of roll number and marks <Inteeger, Double>, add details of 10 students and print them.
+2. Create a map to store details of employees {empId, empName, salary, address},add details of 10 employees and print them.
+3. Write a function that takes a list of integers as input and returns the sum, average, maximum, and minimum values of the list.
+
+SQL:
+
+1. Retrieve the names of all employees along with the names of their respective departments from the employees and departments tables using an inner join.
+2. Retrieve a list of all customers and their corresponding orders, including customers who have not placed any orders. Use a left join between the customers and orders tables.
+3. Retrieve the names of all employees along with the names of their managers. Use a self join on the employees table to achieve this.
+
+department{deptId,deptName}
+employee{empId, emp,name,managerName, deptId}
+
+order{orderId, orderDescription, totalPrice}
+customer{custId,custName,orderId}
