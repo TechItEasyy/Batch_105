@@ -1,0 +1,10 @@
+1. Write a Java program that uses Java 8 Streams to filter a list of integers and print only the even numbers.
+2. Write a Java program that uses Java 8 Streams to transform a list of strings to uppercase and print the result.
+3. Write a Java program that uses Java 8 Streams to find the sum of all integers in a list.
+4. Write a Java program that uses Java 8 Streams to filter a list of names starting with the letter "A" and collect the results into a new list.
+5. Crate a functional interface to print a string, print different string using the functional interface
+6. Write a Java program that uses Java 8 Streams to find the minimum and maximum values in a list of numbers.
+7. Write a Java program that demonstrates the use of Optional to safely retrieve a value from a potentially null object. Handle the case when the object is null gracefully.
+8. Write a Java program that uses Optional to conditionally execute a block of code only if a value is present in the Optional.
+9. Write a Java program that uses the forEach method to iterate through a list of strings and print each element.
+10. Name existing functional interfaces and their uses.
