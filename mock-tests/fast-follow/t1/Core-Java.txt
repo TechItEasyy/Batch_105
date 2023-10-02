@@ -1,0 +1,15 @@
+1. Write a program to find if a number is prime or not
+2. Write a program to calculate the factorial of a given integer using a loop.
+3. Create a Java class called Person with attributes like name, age, and address. Write a program that creates multiple Person objects, sets their attributes, and displays the information.
+4. Create a Java class hierarchy representing different types of vehicles, including a base class Vehicle and subclasses like Car and Motorcycle. Each class should have attributes and methods related to vehicles. Demonstrate method overriding and polymorphism.
+5. Create a Java class BankAccount with private attributes like accountNumber and balance. Implement methods to deposit, withdraw, and check the balance while encapsulating the internal state.
+6. Write a Java program that demonstrates various operations on an ArrayList. Perform operations like adding elements, removing elements, checking if an element exists, and iterating through the list.
+7. Create a Java program that demonstrates the use of a HashMap to store key-value pairs. Perform operations like adding key-value pairs, retrieving values by keys, and iterating through the map.
+8. Create a list to store Employee class having attributes (name, age, salary, company).
+9. In the above employee list store details of 20 employees, sort the employees based on salary, search for an employee on the list.
+10. Write a Java program that demonstrates the use of a try-catch block to handle an ArithmeticException. Prompt the user to enter two integers and perform division, catching and handling the exception if division by zero occurs.
+11. Create a custom exception class called InvalidAgeException. Write a Java program that uses this custom exception to validate the age of a user. If the user enters an age less than 18, throw the InvalidAgeException.
+12.Write a Java program that attempts to read a file using FileInputStream, catching and handling any FileNotFoundException that may occur. Display an error message if the file is not found.
+13. Write a Java program that uses multithreading to create multiple threads, each of which increments a shared counter variable. The goal is to demonstrate how multiple threads can access and modify shared data concurrently. Ensure that the final value of the counter is the expected sum of increments from all threads.
+14. Write a Java program to reverse a given string without using any built-in reverse functions or libraries. You should implement your own logic to reverse the characters of the string.
+15. Write a Java program to check if two strings are anagrams of each other. Anagrams are strings that have the same characters but in a different order.
